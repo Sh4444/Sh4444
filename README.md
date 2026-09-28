@@ -10,6 +10,7 @@
 * 🚀 I enjoy designing **ETL/ELT pipelines, data warehouse solutions, and scalable data workflows**
 * 🤝 Open to collaborating on **Data Engineering, Big Data, and Cloud projects**
 * 📫 Reach me at **[sharful4444@gmail.com](mailto:sharful4444@gmail.com)**
+* 🔗 [LinkedIn](https://linkedin.com/in/sharful-haque-78676a149)**
 
 ### 🧰 Technologies & Tools
 
