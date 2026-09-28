@@ -9,8 +9,12 @@
 * 🌱 Currently learning and building projects with **Databricks, Snowflake, and modern data pipelines**
 * 🚀 I enjoy designing **ETL/ELT pipelines, data warehouse solutions, and scalable data workflows**
 * 🤝 Open to collaborating on **Data Engineering, Big Data, and Cloud projects**
-* 📫 Reach me at **[sharful4444@gmail.com](mailto:sharful4444@gmail.com)**
-* 🔗 [LinkedIn](https://linkedin.com/in/sharful-haque-78676a149)**
+## 🤝 Let's Connect
+
+📧 **Email:** [sharful4444@gmail.com](mailto:sharful4444@gmail.com)
+
+🔗 **LinkedIn:** [Sharful Haque](https://linkedin.com/in/sharful-haque-78676a149)
+
 
 ### 🧰 Technologies & Tools
 
